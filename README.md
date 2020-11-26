@@ -1,7 +1,7 @@
 # MCTS (Monte Carlo Tree Search)
 This project comes from a self directed program I implement for Monte Carlo (STA3431). \
-The program include two simulation methods for MCTS, and support for various board games like 4x4 Tik-Tak-Toe and Gomoku.
-The project report is at [Project Link](https://www.wei-siyi.com/files/STA3431_Project_Report.pdf) \
+The program include two simulation methods for MCTS, and support for various board games like 4x4 Tik-Tak-Toe and Gomoku. \
+In the report I have compared two difference simulation methods in efficiency and time complexity. The project report is at [Project Link](https://www.wei-siyi.com/files/STA3431_Project_Report.pdf). \
 The visualization code was a fork from https://github.com/hayoung-kim/mcts-tic-tac-toe @Hayong-Kim
 
 # Quick Start
