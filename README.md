@@ -11,8 +11,8 @@ Numpy, Pygame, Matplotlib
 
 <table align='left'>
 <tr>
-<td><img src='https://www.wei-siyi.com/images/MCTS_6x6Board.png' width='200' height='200'/></td>
-<td><img src='https://www.wei-siyi.com/images/MCTS_6x6Prob.png' width='200' height='200'/></td>
+<td><img src='https://www.wei-siyi.com/images/MCTS_6x6Board.png' width='400' height='400'/></td>
+<td><img src='https://www.wei-siyi.com/images/MCTS_6x6Prob.png' width='400' height='400'/></td>
 </tr>
 </table>
 
