@@ -15,6 +15,7 @@ Probability Plots|  Game Visualizations
 
 # Self Competence between different algorithms
 * Please turn off the probability plots before you run the self compete program
+
 Time Comparison|  Results
 :-------------------------:|:-------------------------:
 ![](https://www.wei-siyi.com/images/MCTS_TimeComplex.png)  |  ![](https://www.wei-siyi.com/images/MCTS_SCresult.png)
