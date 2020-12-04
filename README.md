@@ -15,6 +15,7 @@ Probability Plots|  Game Visualizations
 
 # Self Competence between different algorithms
 * Please turn off the probability plots before you run the self compete program
+* We could see with relatively fewer simulation (around 500 for 4x4 TikTakToe, the improved simulation win 4 of the 10 simulations. and the rest 6 are draw. Which is the optimum result for both winners.)
 
 Time Comparison|  Results
 :-------------------------:|:-------------------------:
