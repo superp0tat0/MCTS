@@ -9,12 +9,9 @@ Numpy, Pygame, Matplotlib
 
 # Probability Plots and Game Visualizations
 
-<table align='left'>
-<tr>
-<td><img src='https://www.wei-siyi.com/images/MCTS_6x6Board.png' width='400' height='400'/></td>
-<td><img src='https://www.wei-siyi.com/images/MCTS_6x6Prob.png' width='400' height='400'/></td>
-</tr>
-</table>
+$Probability Plots|  Game Visualizations$
+:-------------------------:|:-------------------------:
+![](https://www.wei-siyi.com/images/MCTS_6x6Prob.png)  |  ![](https://www.wei-siyi.com/images/MCTS_6x6Board.png)
 
 # Self Competence between different algorithms
 
